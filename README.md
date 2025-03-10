@@ -3,6 +3,7 @@
 @sebao
 @KDEV
 WPeChatGPT
+
 基于与 ChatGPT 相同模型的IDA 插件，使用 OpenAI 发布的 gpt-3.5-turbo 模型，可以有助于分析师们快速分析二进制文件。
 
 当前 WPeChatGPT 支持的功能包括：
