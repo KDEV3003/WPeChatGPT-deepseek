@@ -31,3 +31,5 @@ ChatGPT 的分析结果仅供参考，不然我们这些分析师就当场失业
 然后将两个py文件放到  \IDA安装目录\pluginsplugins文件夹内
 
 在WPeChatGPT.py里面填写硅基流动的api
+
+硅基流动官网：https://siliconflow.cn/zh-cn/
