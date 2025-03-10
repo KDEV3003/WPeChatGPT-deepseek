@@ -22,6 +22,9 @@ v2.0 版本后使用 OpenAI 最新的 gpt-3.5-turbo 模型（The same as ChatGPT
 ChatGPT 的分析结果仅供参考，不然我们这些分析师就当场失业了。XD
 
 Usage : 
+
 用IDA里面的python.exe -m pip install -r requirement.txt
+
 然后将两个py文件放到  \IDA安装目录\pluginsplugins文件夹内
+
 在WPeChatGPT.py里面填写硅基流动的api
