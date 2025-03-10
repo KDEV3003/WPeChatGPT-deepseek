@@ -4,24 +4,27 @@
 @sebao
 @KDEV
 
-WPeChatGPT
+# WPeChatGPT
 
 基于与 ChatGPT 相同模型的IDA 插件，使用 OpenAI 发布的 gpt-3.5-turbo 模型，可以有助于分析师们快速分析二进制文件。
 
 当前 WPeChatGPT 支持的功能包括：
 
 分析函数的使用环境、预期目的、函数功能。
+
 重命名函数的变量。
+
 尝试用 python3 对函数进行还原，此功能主要是针对较小块的函数（如一个异或解密函数）。
+
 在当前函数中查找是否存在漏洞。
+
 尝试用 python 对漏洞函数生成对应的 EXP。
+
 利用 GPT 全自动分析二进制文件，具体参考节 Auto-WPeGPT。
-WPeChatGPT 插件使用的是 OpenAI 基于GPT训练的 text-davinci-003 模型。
-v2.0 版本后使用 OpenAI 最新的 gpt-3.5-turbo 模型（The same as ChatGPT）。
 
 ChatGPT 的分析结果仅供参考，不然我们这些分析师就当场失业了。XD
 
-Usage : 
+# Usage : 
 
 用IDA里面的python.exe -m pip install -r requirement.txt
 
