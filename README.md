@@ -33,3 +33,5 @@ ChatGPT 的分析结果仅供参考，不然我们这些分析师就当场失业
 在WPeChatGPT.py里面填写硅基流动的api
 
 硅基流动官网：https://siliconflow.cn/zh-cn/
+
+实测V3比R1更快更实惠，API调用费用差距很大，强烈推荐使用V3.
